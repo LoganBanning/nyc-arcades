@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nyc-arcades",
+    "slug": "nyc-arcades",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "nyc-arcades"
+}
